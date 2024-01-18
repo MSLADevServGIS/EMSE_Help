@@ -19,3 +19,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+Accela, the Accela logo, the Accela logo with "Government Software"
+notation, Accela Civic Platform, Accela Automation, Accela Asset
+Management, Accela Citizen Access, Accela Mobile Citizen Access,
+Accela ERS, Accela GIS, Accela IVR, Accela Land Management, Accela
+Licensing, Accela Mobile Office, Accela Public Health and Safety, Accela
+Service Request, Accela Wireless, Kiva DMS, Kiva Development Management
+System, 'PERMITS' Plus, SiteSynch, Tidemark Advantage, Civic Platform,
+Civic Cloud, Civic Hero, E-Boardroom, EnvisionConnect, Envista, GEOTMS,
+IQM2, Mediatraq, Minutetraq, PublicStuff, Trusted To Do More,
+VelocityHall, Vantage360, and other Accela logos, devices, product names,
+and service names are trademarks or service marks of Accela, Inc. Brava!
+Viewer is a trademark of Informative Graphics Corporation. Windows is a
+registered trademark of Microsoft Corporation. Acrobat is a trademark of
+Adobe Systems Incorporated. All other company names, product names, and
+designs mentioned herein are held by their respective owners.
